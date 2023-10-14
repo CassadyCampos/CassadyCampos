@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
+
 **CassadyCampos/CassadyCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+![giphy](https://github.com/CassadyCampos/CassadyCampos/assets/44253571/03ebd7db-6ac2-49c0-9753-8b48d0d927d8)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
